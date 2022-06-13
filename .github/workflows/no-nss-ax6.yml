@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: NO-nss-ax6-ax3600
+name: NO-nss-ax6
 
 on:
   repository_dispatch:
